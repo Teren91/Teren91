@@ -9,15 +9,15 @@
 ## 🚀 About Me
 
 <p align="center" width="300">
-  🔭 I’m currently working with C#, TS and SQL Server
+  🔭 I’m currently working with Flutter and Dart
 </p>
 
 <p align="center" width="300">
-  🌱 I’m currently learning Flutter and Dart 
+  🌱 I’m still learning Flutter and Dart 
 </p>
 
 <p align="center" width="300">
-  ⚡ Creating my path to become a Mobile developer with Flutter 
+  ⚡ Creating my path to become a better Software Developer 
 </p>
 
 
