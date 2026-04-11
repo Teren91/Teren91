@@ -13,7 +13,7 @@
 </p>
 
 <p align="center" width="300">
-  🌱 I’m still learning Flutter and Dart 
+  🌱 Always keep learning to improve my skills 
 </p>
 
 <p align="center" width="300">
